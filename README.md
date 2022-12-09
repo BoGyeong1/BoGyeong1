@@ -17,7 +17,7 @@
      
      
      
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bogyeong&theme=material-palenight&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bogyeong1&theme=material-palenight&show_icons=true)
     
   
   
