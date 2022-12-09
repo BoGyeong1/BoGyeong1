@@ -9,7 +9,7 @@
   
   # BOGYEONG JIN
     
-  [Email](wls6590@gmail.com)
+  [🌷Email🌷](wls6590@gmail.com)
   
   안녕하세요😊   
      
