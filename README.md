@@ -8,8 +8,11 @@
   
   # BOGYEONG JIN
     
+  <img src="https://m.blog.naver.com/tkvkdldj040616/220998527529?view=img_6">
+    
  🌷Email🌷: wls6590@gmail.com
-  
+    
+    
   안녕하세요😊   
      
   현재 KH정보교육원에서 코딩공부 중인 💜초보개발자💜입니다   
