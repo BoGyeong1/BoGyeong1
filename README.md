@@ -5,8 +5,13 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 
-
-안녕하세요
+  안녕하세요😊 
+  현재 코딩공부 중인 💜초보개발자💜입니다
+  
+  
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bogyeong&theme=material-palenight&show_icons=true)
+  
 
 
   </div>
