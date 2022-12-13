@@ -11,7 +11,7 @@
 <br>
 <br>
 <br>
-<img src="https://img.shields.io/badge/ECLIIPSE IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white"><img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">    
+<img src="https://img.shields.io/badge/ECLIIPSE IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white"><img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"><img src="https://img.shields.io/badge/INTELLIJ-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">       
   
   
   # BOGYEONG JIN
