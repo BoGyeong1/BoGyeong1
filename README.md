@@ -20,7 +20,7 @@
   <img src="https://mblogthumb-phinf.pstatic.net/MjAxNzA1MDRfMjcz/MDAxNDkzODkyMTQwMjQ3.WfN6MkjDHIu6k29ED1S-lafGrbT_JRth0mHzdd7RaE8g.wy84VY0fgIJMk5WoKdNzPbnoC8IvFULw3aXR1I5EmGcg.GIF.tkvkdldj040616/3387c9a34aef3e2881f5ded9eb9ea157.gif?type=w2">
   <br>
   <br>
- 🌷 Email 🌷 wls6590@gmail.com
+ 🌷 Email 🌷 wls6590@gmail.com  
   🍀 개인공부 Notion 🍀 : [개인필기](https://buttoned-toast-6dc.notion.site/STUDY-b8118fb29478403bacb2463b00ddc8f3) 
    <br> 
    <br>
