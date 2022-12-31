@@ -22,8 +22,10 @@
   <br>
  🌷 Email 🌷 wls6590@gmail.com  
   <br>
+  
  🍀 개인공부 Notion 🍀 : [개인필기](https://buttoned-toast-6dc.notion.site/STUDY-b8118fb29478403bacb2463b00ddc8f3) 
-   <br> 
+   
+  <br> 
    <br>
   <br>
   안녕하세요😊   
