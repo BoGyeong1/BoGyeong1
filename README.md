@@ -33,7 +33,7 @@
    <br>
      
 
- [개인필기](https://buttoned-toast-6dc.notion.site/STUDY-b8118fb29478403bacb2463b00ddc8f3)     
+ 🍀 개인공부 Notion 🍀 : [개인필기](https://buttoned-toast-6dc.notion.site/STUDY-b8118fb29478403bacb2463b00ddc8f3)     
      
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bogyeong1&theme=material-palenight&show_icons=true)
     
